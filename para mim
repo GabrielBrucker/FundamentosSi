@@ -1,0 +1,9 @@
+##CODGOS
+#include <stdio.h>
+main (){
+	
+	printf("aaaaaaSSSSSSSSSSSSSSSSSSSSSS \n");
+	printf("aaaaaaSSSSSSSSSSSSSSSSSSSSSS\n");
+    printf("SAMUANFUNAFUSFNUF");
+	getch();
+}
