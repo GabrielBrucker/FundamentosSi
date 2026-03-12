@@ -1,5 +1,20 @@
 # Notas de aula da disciplina
 
+## AULA 4
+- Apresentaçoes e aplicaçoes web
+ - Vantagens e desvantagens
+# Vantagens 
+- Flexibilidade
+- Autonomia
+- Agilidade
+- Integraçao de tecnologia
+# DEsvantagens
+- Segurança
+- Dependencia
+# Arquitetura 
+- Cliente
+- Ponto a ponto
+
 ## Aula 3
 - Apresentaação da ooficina de Github: https://github.com/alexandrezamberlan
 - Apresentação, discussão e trabalho
