@@ -1,9 +1,15 @@
-##CODGOS
 #include <stdio.h>
-main (){
+#include <stdlib.h>
+#include <locale.h> // Biblioteca necessária
+
+int main() {
+    // Configura o programa para usar o padrão português
+    setlocale(LC_ALL, "Portuguese");
 	
-	printf("aaaaaaSSSSSSSSSSSSSSSSSSSSSS \n");
 	printf("aaaaaaSSSSSSSSSSSSSSSSSSSSSS\n");
-    printf("SAMUANFUNAFUSFNUF");
+	printf("aaaaaaSSSSSSSSSSSSSSSSSSSSSS\n");
+    printf("SAMUANFUNAFUSFNUF\n");
+    printf("Samuel é gamer");
+    
 	getch();
 }
