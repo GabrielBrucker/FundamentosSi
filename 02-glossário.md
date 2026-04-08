@@ -1,4 +1,4 @@
-# glossário ou vocabulario da disciplina
+# glossário ou vocabulário da disciplina
 Neste arquivo, nós guarda palavras ou expressões que não sabemos, o que é
 
 # Palavras ou expressões
