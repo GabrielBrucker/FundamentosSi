@@ -23,6 +23,8 @@ int main() {
 
 
 int main() {
+    // Configura o programa para usar o padrão português
+    setlocale(LC_ALL, "Portuguese");
     float  numero, acumulado = 0;
     char operador;
     int contador = 0;
