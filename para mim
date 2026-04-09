@@ -15,3 +15,49 @@ int main() {
     
 	getch();
 }
+
+## CALCULADORA DE MESA CONTINUA
+#include <stdio.h>
+#include <stdlib.h>
+#include <locale.h> // Biblioteca necessária
+
+
+int main() {
+    float  numero, acumulado = 0;
+    char operador;
+    int contador = 0;
+    printf ("digite um operador:");
+    scanf ("%c",&operador);
+    printf ("coloque um numero:");
+    scanf("%f",&numero);
+    if (operador == '+') {
+    	 acumulado =  acumulado + numero;
+        } else if (operador == '-') {
+            acumulado -= numero;
+        } else if (operador == '*') {
+            acumulado *= numero;
+        } else if (operador == '/') {
+            acumulado /= numero;
+			}
+	
+	printf("%.2f \n" , acumulado);
+/*    if ("%d"==0)printf ("nao da");
+    
+    if ("%d">0)printf ("da certo");
+  */  
+  while (1) {
+    printf("s ou S para sair:");
+    scanf(" %c", &operador);
+
+    if (operador == 'S' || operador == 's') {
+        break;
+    }
+
+    /* resto das operações aqui */
+}
+
+printf("\nPrograma encerrado.");
+
+
+    
+}
