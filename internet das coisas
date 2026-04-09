@@ -1,4 +1,50 @@
 ## Internet das Coisas
 Em termos simples:
 
-É quando coisas normais(como lâmpadas, geladeiras, relógios, carros) ficam “inteligentes” porque conseguem se comunicar pela internet.
+É quando coisas normais (como lâmpadas, geladeiras, relógios, carros) conseguem se comunicar pela rede.
+# Exemplos práticos:
+Casa inteligente: lâmpadas que voce controla pelo celular, ar, portas digitais tmb
+Relógios inteligentes: monitoram dos batimentos cardíacos
+Carros conectados: mostram rotas consumo e fazem diagnósticos
+Geladeiras inteligentes: avisam quando algo está acabando, e a temperatura das coisas
+
+Como funciona:
+Sensores coletam informações (temperatura, movimento, etc)
+Conexão com a internet envia esses dados
+Sistema/software analisa os dados
+O dispositivo toma uma ação ou te envia informações
+
+Por que isso é importante?
+Automatiza tarefas do dia a dia
+Economiza energia e recursos
+Melhora segurança (câmeras, alarmes)
+Ajuda empresas a tomar decisões com dados
+
+Pontos de atenção:
+Segurança (dispositivos podem ser hackeados, e ele terá acesso a tudo)
+Privacidade (coleta de dados pessoais para melhorar a inteligencia da maquian)
+
+## Computação em nuvem
+é guardar dados e usar programas em servidores na internet (“na nuvem”), não na sua máquina.
+
+Exemplo fácil:
+Quando você salva fotos no Google Fotos ou arquivos no Drive, eles não ficam só no seu celular — ficam em servidores online.
+Assim, você pode acessar de qualquer lugar.
+ #O que dá pra fazer na nuvem:
+Armazenar arquivos (fotos, vídeos, documentos)
+Usar programas online (como editores de texto)
+Fazer backup automático
+Rodar sistemas e aplicativos sem instalar nada
+ Como funciona:
+Seus dados são enviados pela internet
+Ficam guardados em grandes centros de servidores
+Você acessa quando quiser, de qualquer dispositivo
+ #Vantagens:
+Acesso de qualquer lugar
+Não ocupa espaço no seu dispositivo
+Mais segurança e backup
+Fácil de compartilhar
+#Pontos de atenção:
+Precisa de internet
+Pode ter custos (dependendo do uso)
+Questões de privacidade
