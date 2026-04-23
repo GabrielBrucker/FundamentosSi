@@ -1,6 +1,32 @@
 # glossário ou vocabulário da disciplina
 Neste arquivo, nós guarda palavras ou expressões que não sabemos, o que é
 
+## AULA 7
+Tecnica vs metodologia
+
+###  Metodologia
+
+A metodologia é o conjunto de métodos, estratégias e princípios que orientam o desenvolvimento de um projeto.
+- Define o **caminho a ser seguido**
+- Organiza o processo de trabalho
+- Dá base teórica e lógica às decisões
+
+ Exemplos:
+- Scrum
+- Cascata [Waterfall] (Cascata (Waterfall) é uma metodologia de desenvolvimento de software em que o projeto segue um fluxo linear e sequencial, como uma “cascata” — você só avança para a próxima etapa depois de terminar a anterior.) 
+
+---
+
+###  Técnica
+A técnica é a forma prática de executar tarefas dentro de uma metodologia.
+- Representa o como fazer
+- São ferramentas e procedimentos específicos
+- Aplicadas no dia a dia do projeto
+
+### Exemplos:
+- Kanban (gestão de tarefas)
+- Entrevistas
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 # Palavras ou expressões
  -Arquiteturas 
 
