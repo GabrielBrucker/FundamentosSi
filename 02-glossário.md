@@ -1,8 +1,8 @@
 # glossário ou vocabulário da disciplina
 Neste arquivo, nós guarda palavras ou expressões que não sabemos, o que é
 
-## AULA 7
-Tecnica vs metodologia
+# AULA 7
+## Tecnica vs metodologia
 
 ###  Metodologia
 
